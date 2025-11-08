@@ -5,6 +5,6 @@ using System.Text;
 namespace APIVerve
 {
     public class TexttoEmojiQueryOptions {
-public string text { get; set; }
+public string Text { get; set; }
 }
 }
